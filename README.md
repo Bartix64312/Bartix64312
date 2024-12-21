@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
 <body>
-    <h1> (https://Bartix6312.github.io)</h1>
+    <h1> strona :(https://Bartix6312.github.io)</h1>
   <h1> O mnie!!!</h1>
     <ul>
 <li><strong></strong>Jestem Bartosz Stasiak, pasjonat sieci komputerowych. </li></strong>
